@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CatchMe</string>
+    <string name="anzahl_besuche">Anzahl Besuche:</string>
+    <string name="Zurücksetzen">Zurücksetzen</string>
+    <string name="InstruktionKoordinaten">Gib die Koordinaten deines gewünschten Orts ein:</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="app_title">Catch me</string>
+    <string name="Koordinaten">Längengrad</string>
+    <string name="Koordinaten2">Breitengrad</string>
+</resources>
